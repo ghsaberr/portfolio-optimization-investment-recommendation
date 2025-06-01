@@ -1,0 +1,1001 @@
+customer_id,age,income,risk_tolerance,investment_horizon,investment_goal,current_portfolio_value
+1,52,120532,Low,Long-term,Home Purchase,897457
+2,42,95065,Low,Long-term,Retirement,396486
+3,54,61686,Low,Medium-term,Home Purchase,710572
+4,67,43327,Low,Medium-term,Wealth Building,19637
+5,41,84890,High,Short-term,Wealth Building,839690
+6,41,72892,High,Medium-term,Wealth Building,963197
+7,68,93675,Low,Medium-term,Home Purchase,937328
+8,56,82255,Medium,Medium-term,Education,663841
+9,37,101192,Medium,Long-term,Education,561238
+10,53,45815,Low,Medium-term,Retirement,426704
+11,38,115693,Low,Long-term,Retirement,662158
+12,38,66091,Medium,Short-term,Wealth Building,507760
+13,48,168996,Medium,Short-term,Retirement,10215
+14,18,42421,High,Long-term,Home Purchase,377747
+15,19,142626,Medium,Long-term,Home Purchase,807955
+16,36,66102,Low,Long-term,Retirement,865121
+17,29,43230,High,Medium-term,Retirement,33834
+18,49,47007,Low,Short-term,Retirement,306618
+19,31,51012,Low,Long-term,Retirement,577354
+20,23,74019,Medium,Medium-term,Wealth Building,282544
+21,66,77762,Medium,Short-term,Wealth Building,921643
+22,41,44942,High,Medium-term,Retirement,544633
+23,46,59149,Medium,Short-term,Home Purchase,43896
+24,23,174754,High,Medium-term,Wealth Building,488646
+25,36,142026,Medium,Short-term,Home Purchase,825331
+26,46,74470,Medium,Short-term,Education,509387
+27,27,61022,Medium,Medium-term,Home Purchase,824661
+28,50,63577,Low,Long-term,Retirement,520269
+29,35,81369,High,Short-term,Education,277727
+30,40,35903,Medium,Long-term,Wealth Building,932401
+31,35,52644,Medium,Medium-term,Wealth Building,523622
+32,72,30000,Low,Long-term,Education,81537
+33,44,73102,Low,Long-term,Home Purchase,774777
+34,29,82751,High,Long-term,Wealth Building,407783
+35,57,47023,Low,Long-term,Retirement,609095
+36,26,131530,High,Long-term,Education,663936
+37,48,32439,Medium,Short-term,Retirement,909084
+38,18,30000,High,Short-term,Education,480455
+39,25,66985,Medium,Short-term,Wealth Building,678689
+40,47,101068,Medium,Medium-term,Home Purchase,242117
+41,56,138963,Low,Long-term,Education,783068
+42,47,47598,Medium,Short-term,Education,343936
+43,43,102676,High,Medium-term,Retirement,403444
+44,40,58732,High,Short-term,Wealth Building,223286
+45,22,54922,High,Short-term,Retirement,571340
+46,34,93137,Medium,Long-term,Wealth Building,460985
+47,38,82963,Low,Medium-term,Retirement,56032
+48,60,30000,Medium,Long-term,Education,514910
+49,50,125275,Low,Long-term,Retirement,305830
+50,18,119377,High,Short-term,Home Purchase,873413
+51,49,43792,Low,Long-term,Wealth Building,633090
+52,39,72977,Low,Medium-term,Wealth Building,990765
+53,34,76650,Medium,Long-term,Education,930313
+54,54,68209,Low,Long-term,Wealth Building,244337
+55,60,45471,Medium,Long-term,Home Purchase,182857
+56,58,42795,Low,Short-term,Retirement,439763
+57,32,59113,Low,Medium-term,Education,314962
+58,40,107620,Medium,Short-term,Home Purchase,896854
+59,49,78574,Low,Short-term,Wealth Building,344071
+60,59,49746,Low,Short-term,Wealth Building,731041
+61,37,88066,Medium,Short-term,Home Purchase,351609
+62,42,30000,Low,Short-term,Retirement,755222
+63,28,106338,High,Medium-term,Retirement,760887
+64,27,30000,Medium,Long-term,Education,647509
+65,57,49950,Low,Short-term,Wealth Building,309477
+66,65,34206,Medium,Short-term,Home Purchase,136457
+67,43,31340,Medium,Medium-term,Retirement,288720
+68,60,106981,Low,Medium-term,Education,129875
+69,50,47389,Low,Long-term,Wealth Building,835837
+70,35,71200,Low,Medium-term,Wealth Building,890432
+71,50,58485,Medium,Long-term,Education,476995
+72,68,76002,Low,Short-term,Education,565889
+73,44,62218,Medium,Short-term,Retirement,864378
+74,68,31523,Medium,Long-term,Home Purchase,994860
+75,18,98531,High,Medium-term,Wealth Building,324260
+76,57,46775,Medium,Long-term,Home Purchase,527965
+77,46,30000,Medium,Medium-term,Wealth Building,520472
+78,40,48336,High,Short-term,Wealth Building,638474
+79,46,126801,Low,Medium-term,Home Purchase,859326
+80,18,91593,High,Long-term,Education,699995
+81,41,50295,Medium,Long-term,Retirement,803897
+82,50,50280,Low,Short-term,Wealth Building,591042
+83,67,50979,Low,Medium-term,Education,239047
+84,37,169121,Medium,Medium-term,Wealth Building,102850
+85,32,72472,Low,Medium-term,Retirement,906197
+86,37,74237,Low,Short-term,Wealth Building,750479
+87,58,100221,Medium,Medium-term,Retirement,364835
+88,49,67467,Medium,Long-term,Retirement,573159
+89,37,52600,High,Medium-term,Wealth Building,203946
+90,52,54275,Medium,Short-term,Wealth Building,480949
+91,46,57768,High,Medium-term,Retirement,825943
+92,59,58770,Medium,Medium-term,Education,877392
+93,34,86147,Low,Long-term,Home Purchase,976325
+94,40,61449,Low,Medium-term,Retirement,862208
+95,39,86363,Medium,Long-term,Wealth Building,259200
+96,23,57505,High,Long-term,Wealth Building,735527
+97,49,62275,Low,Short-term,Education,316606
+98,48,30000,Medium,Long-term,Home Purchase,464598
+99,45,94671,High,Long-term,Retirement,493410
+100,41,71199,Medium,Short-term,Retirement,768741
+101,23,98617,High,Long-term,Home Purchase,566862
+102,38,30000,Medium,Short-term,Retirement,636360
+103,39,170107,Low,Medium-term,Home Purchase,445126
+104,32,55837,Medium,Short-term,Wealth Building,214603
+105,42,104202,Medium,Long-term,Home Purchase,690546
+106,51,35598,Low,Short-term,Retirement,688173
+107,73,81339,Medium,Long-term,Home Purchase,744172
+108,47,35358,Medium,Medium-term,Education,750885
+109,48,43831,High,Short-term,Wealth Building,874714
+110,43,155907,High,Medium-term,Wealth Building,119779
+111,18,54429,Medium,Long-term,Home Purchase,28557
+112,44,66750,Medium,Long-term,Retirement,169132
+113,45,92506,Medium,Medium-term,Education,462082
+114,80,76714,Medium,Short-term,Wealth Building,344248
+115,42,64550,Low,Short-term,Wealth Building,766265
+116,49,71860,Medium,Long-term,Retirement,487793
+117,44,199128,Medium,Medium-term,Retirement,671440
+118,27,58173,Medium,Medium-term,Education,154926
+119,62,66207,Low,Short-term,Home Purchase,918445
+120,56,101247,Low,Short-term,Retirement,733055
+121,56,104064,Medium,Short-term,Home Purchase,692385
+122,31,108392,Medium,Medium-term,Education,194054
+123,66,82402,Low,Short-term,Home Purchase,575369
+124,23,33809,Medium,Short-term,Wealth Building,931872
+125,53,135498,Medium,Long-term,Home Purchase,764981
+126,77,33753,Low,Short-term,Education,391325
+127,30,69655,High,Short-term,Education,823526
+128,36,41062,Low,Medium-term,Education,973544
+129,46,57984,Medium,Medium-term,Home Purchase,338910
+130,37,70571,Low,Long-term,Wealth Building,879485
+131,21,70310,Medium,Short-term,Retirement,165063
+132,46,73936,Medium,Long-term,Wealth Building,797733
+133,29,134169,Medium,Medium-term,Home Purchase,693970
+134,52,75114,Medium,Long-term,Home Purchase,615751
+135,31,52993,Low,Medium-term,Retirement,700038
+136,68,96959,Low,Long-term,Home Purchase,296610
+137,33,108524,Medium,Long-term,Education,483656
+138,40,32409,Low,Short-term,Education,968379
+139,57,80716,Low,Long-term,Education,36081
+140,26,85015,High,Short-term,Education,34354
+141,48,51596,Medium,Short-term,Education,627585
+142,64,119116,Low,Short-term,Home Purchase,814732
+143,20,55546,High,Short-term,Retirement,74384
+144,47,63754,Medium,Long-term,Retirement,891459
+145,48,54910,Low,Medium-term,Education,655972
+146,56,60342,Low,Medium-term,Home Purchase,857324
+147,26,34608,High,Medium-term,Wealth Building,45525
+148,25,30000,High,Long-term,Wealth Building,954036
+149,52,132886,Low,Short-term,Home Purchase,16464
+150,49,39203,Medium,Medium-term,Education,550850
+151,48,36472,Medium,Long-term,Retirement,903824
+152,50,30000,Medium,Short-term,Home Purchase,589802
+153,34,43500,Medium,Medium-term,Wealth Building,385572
+154,48,30898,High,Short-term,Wealth Building,122564
+155,49,136081,Low,Medium-term,Wealth Building,380191
+156,34,99201,Low,Medium-term,Education,477435
+157,72,42443,Medium,Medium-term,Wealth Building,566922
+158,52,184650,Medium,Short-term,Home Purchase,796492
+159,27,97819,Medium,Long-term,Home Purchase,805701
+160,54,50898,Low,Short-term,Wealth Building,204215
+161,30,30000,Low,Medium-term,Home Purchase,557353
+162,56,188239,Low,Short-term,Wealth Building,275039
+163,62,30000,Medium,Long-term,Wealth Building,353003
+164,32,30000,Medium,Short-term,Retirement,677712
+165,59,99836,Low,Long-term,Education,977241
+166,51,200000,Low,Long-term,Education,114127
+167,57,119627,Low,Short-term,Retirement,106426
+168,73,79376,Low,Medium-term,Retirement,959520
+169,41,80609,Medium,Long-term,Education,202376
+170,33,91739,High,Short-term,Wealth Building,21962
+171,31,87506,High,Long-term,Wealth Building,43302
+172,32,68912,Low,Medium-term,Education,357526
+173,43,63076,High,Short-term,Wealth Building,14011
+174,50,58029,Medium,Short-term,Retirement,926148
+175,49,41069,Medium,Short-term,Wealth Building,29782
+176,57,52034,Low,Medium-term,Wealth Building,208763
+177,45,30000,Medium,Long-term,Home Purchase,654942
+178,66,57001,Low,Short-term,Home Purchase,442941
+179,41,36523,Low,Long-term,Home Purchase,543484
+180,80,34482,Low,Long-term,Wealth Building,53459
+181,54,65509,Low,Medium-term,Education,621533
+182,32,120090,Medium,Short-term,Retirement,532829
+183,28,94765,High,Long-term,Wealth Building,613151
+184,52,30000,Low,Short-term,Education,919638
+185,41,36504,Low,Short-term,Wealth Building,784751
+186,55,95835,Medium,Medium-term,Retirement,373154
+187,52,36634,Medium,Short-term,Wealth Building,42769
+188,43,53513,Medium,Short-term,Retirement,379673
+189,32,78828,High,Long-term,Wealth Building,790721
+190,22,36894,High,Medium-term,Retirement,34700
+191,38,63113,High,Short-term,Wealth Building,781152
+192,57,30729,Low,Long-term,Retirement,745716
+193,48,44325,Medium,Medium-term,Home Purchase,241237
+194,26,70255,Medium,Medium-term,Wealth Building,801701
+195,47,30000,Low,Long-term,Wealth Building,918063
+196,50,74625,Low,Long-term,Education,316024
+197,31,59289,Medium,Long-term,Education,124003
+198,47,78924,Medium,Long-term,Retirement,149392
+199,45,66967,Medium,Long-term,Wealth Building,59589
+200,27,118429,Medium,Short-term,Retirement,260606
+201,50,63742,Medium,Short-term,Home Purchase,741636
+202,53,48305,Low,Medium-term,Education,570185
+203,61,63649,Low,Short-term,Retirement,199637
+204,60,78562,Low,Short-term,Retirement,696290
+205,24,61354,Medium,Short-term,Education,722593
+206,30,61101,Medium,Long-term,Wealth Building,223893
+207,52,42150,Medium,Medium-term,Retirement,810812
+208,52,42982,Low,Medium-term,Education,742256
+209,52,30000,Low,Medium-term,Wealth Building,80934
+210,80,143600,Medium,Medium-term,Home Purchase,590118
+211,53,32146,Medium,Short-term,Education,277673
+212,62,42342,Low,Short-term,Retirement,786652
+213,59,41806,Low,Long-term,Home Purchase,366742
+214,54,93663,Low,Medium-term,Wealth Building,767582
+215,40,51664,Medium,Short-term,Wealth Building,92987
+216,56,111733,Low,Short-term,Education,583466
+217,33,42755,Low,Long-term,Education,148009
+218,41,68837,High,Long-term,Education,394096
+219,37,39431,Medium,Long-term,Wealth Building,574174
+220,46,175005,Low,Short-term,Home Purchase,583987
+221,79,33064,Low,Short-term,Wealth Building,610684
+222,18,69906,High,Long-term,Retirement,624966
+223,55,82198,Low,Medium-term,Wealth Building,559567
+224,20,73636,Medium,Long-term,Retirement,441322
+225,37,54576,High,Long-term,Home Purchase,120776
+226,61,56111,Low,Long-term,Education,635732
+227,45,61200,Medium,Long-term,Education,378444
+228,28,55631,High,Short-term,Wealth Building,123793
+229,34,96948,Low,Medium-term,Education,388422
+230,55,180820,Low,Long-term,Home Purchase,220809
+231,34,45308,Medium,Medium-term,Education,181616
+232,48,30184,Low,Medium-term,Wealth Building,375391
+233,45,57288,Low,Medium-term,Home Purchase,252262
+234,35,200000,High,Long-term,Retirement,543285
+235,77,40061,Medium,Short-term,Wealth Building,116102
+236,54,135884,Medium,Long-term,Retirement,882143
+237,18,138531,High,Medium-term,Home Purchase,388189
+238,47,45397,Low,Medium-term,Wealth Building,575148
+239,35,79577,High,Short-term,Wealth Building,275369
+240,57,135157,Low,Long-term,Home Purchase,644402
+241,33,49535,High,Medium-term,Education,986974
+242,43,54079,High,Short-term,Wealth Building,647506
+243,52,44764,Medium,Medium-term,Wealth Building,532070
+244,57,36048,Medium,Short-term,Retirement,897196
+245,26,43276,High,Short-term,Education,117041
+246,39,32468,Low,Long-term,Retirement,384368
+247,37,60903,Medium,Medium-term,Retirement,335800
+248,35,40741,Medium,Long-term,Education,455096
+249,71,67298,Low,Medium-term,Education,726438
+250,51,30000,Low,Long-term,Home Purchase,491862
+251,26,70646,High,Medium-term,Education,86290
+252,58,90831,Low,Long-term,Wealth Building,66633
+253,76,30000,Medium,Short-term,Education,823087
+254,60,72187,Medium,Medium-term,Home Purchase,131118
+255,22,110617,High,Medium-term,Home Purchase,708961
+256,37,32701,High,Short-term,Home Purchase,13114
+257,64,138176,Low,Long-term,Education,822934
+258,34,73829,High,Medium-term,Education,59768
+259,51,42086,Medium,Medium-term,Retirement,320272
+260,56,58227,Low,Long-term,Retirement,423244
+261,31,79155,Medium,Short-term,Wealth Building,983069
+262,44,62193,Medium,Long-term,Retirement,93123
+263,18,78384,Medium,Long-term,Wealth Building,642543
+264,29,37784,High,Long-term,Home Purchase,176405
+265,41,65165,Medium,Medium-term,Retirement,13174
+266,26,30000,Medium,Short-term,Education,127769
+267,69,56635,Low,Short-term,Retirement,307542
+268,23,38102,High,Long-term,Wealth Building,439145
+269,38,41449,Medium,Medium-term,Retirement,145393
+270,46,111084,Low,Long-term,Home Purchase,395693
+271,66,103327,Low,Medium-term,Education,761331
+272,23,81191,Medium,Medium-term,Wealth Building,776868
+273,62,34677,Medium,Medium-term,Education,196493
+274,45,51113,Low,Medium-term,Education,606923
+275,30,109814,Medium,Short-term,Wealth Building,820192
+276,51,64270,Low,Medium-term,Education,938864
+277,47,190930,Medium,Medium-term,Education,675673
+278,35,72886,High,Long-term,Retirement,927106
+279,46,65908,Medium,Long-term,Education,777166
+280,39,51299,Low,Short-term,Education,227070
+281,46,64008,Medium,Long-term,Education,409017
+282,54,55479,Low,Medium-term,Education,810562
+283,68,85310,Low,Long-term,Wealth Building,941775
+284,26,96601,High,Short-term,Home Purchase,419291
+285,76,40416,Low,Long-term,Retirement,505671
+286,18,30772,Medium,Long-term,Education,379359
+287,42,30000,Medium,Short-term,Education,160056
+288,53,77187,Medium,Short-term,Wealth Building,884527
+289,49,34486,High,Medium-term,Home Purchase,857374
+290,35,30000,Low,Long-term,Education,153933
+291,41,72714,Medium,Medium-term,Wealth Building,108970
+292,37,200000,Medium,Long-term,Retirement,92203
+293,36,59692,Medium,Long-term,Retirement,998880
+294,57,91057,Medium,Medium-term,Education,202319
+295,50,62374,Medium,Long-term,Education,210173
+296,34,56985,High,Long-term,Home Purchase,511946
+297,58,94801,Low,Long-term,Home Purchase,686337
+298,49,51785,Medium,Short-term,Education,453833
+299,57,68438,Medium,Medium-term,Wealth Building,984977
+300,54,70322,Low,Short-term,Home Purchase,227726
+301,32,42871,Medium,Medium-term,Education,884609
+302,36,98323,Medium,Medium-term,Home Purchase,607190
+303,56,54858,Low,Long-term,Education,102172
+304,54,41032,Low,Medium-term,Retirement,680990
+305,44,78296,Low,Short-term,Education,554344
+306,46,38206,High,Short-term,Retirement,148454
+307,64,60723,Low,Short-term,Home Purchase,65739
+308,36,59601,Medium,Medium-term,Education,878117
+309,53,103047,Low,Short-term,Home Purchase,58639
+310,41,75913,Low,Medium-term,Retirement,463054
+311,41,59129,Low,Short-term,Education,449257
+312,61,90118,Low,Short-term,Home Purchase,797424
+313,57,119982,Medium,Medium-term,Retirement,606682
+314,57,79134,Low,Short-term,Home Purchase,339801
+315,64,60184,Medium,Long-term,Wealth Building,823592
+316,45,31072,Medium,Medium-term,Retirement,841588
+317,55,35152,Low,Medium-term,Retirement,192447
+318,40,51399,Medium,Medium-term,Retirement,358586
+319,49,44145,Medium,Long-term,Education,684932
+320,43,54530,Medium,Medium-term,Education,390069
+321,46,61594,Low,Short-term,Education,14136
+322,53,78029,Low,Short-term,Wealth Building,71868
+323,32,57800,High,Short-term,Wealth Building,354407
+324,76,76362,Medium,Medium-term,Retirement,828599
+325,29,61835,High,Short-term,Wealth Building,120957
+326,26,30000,High,Medium-term,Home Purchase,549767
+327,62,37433,Medium,Short-term,Retirement,129392
+328,56,55712,Low,Long-term,Retirement,696736
+329,54,32700,Low,Long-term,Home Purchase,670183
+330,54,80818,Low,Long-term,Retirement,790516
+331,44,128717,Medium,Long-term,Wealth Building,211528
+332,31,110126,Low,Medium-term,Education,816017
+333,46,53813,Medium,Short-term,Home Purchase,244847
+334,34,126167,High,Long-term,Wealth Building,944776
+335,59,64494,Low,Medium-term,Home Purchase,823051
+336,42,50587,Low,Long-term,Home Purchase,871501
+337,32,44059,Low,Long-term,Retirement,312039
+338,40,51470,High,Medium-term,Retirement,275864
+339,51,49311,Low,Medium-term,Wealth Building,291411
+340,36,65199,Medium,Short-term,Home Purchase,156768
+341,32,64879,High,Short-term,Retirement,695328
+342,48,59965,High,Long-term,Retirement,325508
+343,48,74493,Medium,Long-term,Home Purchase,426561
+344,37,108588,Medium,Short-term,Wealth Building,61567
+345,37,96257,Medium,Short-term,Wealth Building,101229
+346,48,30000,Medium,Medium-term,Home Purchase,989111
+347,23,30000,Medium,Short-term,Wealth Building,422601
+348,23,95526,High,Short-term,Retirement,486874
+349,34,30229,Medium,Long-term,Home Purchase,994404
+350,41,53509,Low,Short-term,Retirement,209316
+351,49,33354,Medium,Long-term,Education,730785
+352,67,30000,Low,Short-term,Education,874950
+353,57,78490,Low,Medium-term,Wealth Building,617132
+354,42,87516,Medium,Short-term,Education,173991
+355,44,44879,Low,Short-term,Retirement,624985
+356,29,30000,High,Short-term,Education,591484
+357,44,45564,Medium,Long-term,Retirement,649888
+358,40,72831,Low,Medium-term,Wealth Building,634913
+359,49,30000,High,Short-term,Wealth Building,482617
+360,32,65622,Low,Long-term,Retirement,927999
+361,52,59417,Low,Medium-term,Education,841187
+362,67,79989,Low,Long-term,Wealth Building,995188
+363,43,63563,Low,Long-term,Home Purchase,43324
+364,51,36807,Low,Medium-term,Wealth Building,875361
+365,55,108910,Medium,Short-term,Education,404768
+366,38,55311,High,Long-term,Home Purchase,61272
+367,48,59062,Low,Long-term,Education,439069
+368,45,37547,Medium,Short-term,Retirement,259264
+369,46,47971,Medium,Short-term,Home Purchase,698284
+370,33,38468,High,Medium-term,Education,870894
+371,45,54914,Medium,Medium-term,Home Purchase,761747
+372,52,140906,Low,Medium-term,Education,689249
+373,66,30153,Low,Short-term,Home Purchase,246538
+374,59,30000,Medium,Long-term,Education,588963
+375,77,124939,Medium,Long-term,Retirement,525447
+376,33,53924,Low,Medium-term,Home Purchase,83591
+377,58,42850,Low,Short-term,Home Purchase,473406
+378,47,100705,High,Long-term,Home Purchase,163706
+379,77,44231,Medium,Medium-term,Home Purchase,304507
+380,32,149194,High,Long-term,Retirement,204824
+381,32,84032,Medium,Long-term,Home Purchase,349148
+382,36,46912,Medium,Short-term,Wealth Building,983902
+383,18,176073,High,Short-term,Retirement,763818
+384,37,44229,Medium,Long-term,Wealth Building,837150
+385,33,86772,Low,Medium-term,Home Purchase,123627
+386,47,69539,Medium,Short-term,Education,748276
+387,50,114791,Medium,Long-term,Wealth Building,299014
+388,73,130712,Low,Short-term,Home Purchase,47394
+389,59,60839,Medium,Short-term,Wealth Building,848489
+390,36,41080,Medium,Short-term,Home Purchase,89795
+391,31,75356,High,Long-term,Home Purchase,352553
+392,52,42665,Low,Medium-term,Home Purchase,809448
+393,25,163847,Medium,Medium-term,Education,52137
+394,72,64104,Low,Medium-term,Wealth Building,403369
+395,62,49878,Low,Short-term,Retirement,148925
+396,37,65666,Medium,Long-term,Retirement,546667
+397,19,30529,High,Short-term,Retirement,943296
+398,65,36834,Low,Medium-term,Retirement,131169
+399,43,109120,Medium,Medium-term,Home Purchase,179439
+400,63,43111,Low,Long-term,Wealth Building,159172
+401,21,35473,Medium,Short-term,Wealth Building,660370
+402,36,78301,High,Medium-term,Education,385233
+403,45,108320,High,Long-term,Wealth Building,990960
+404,45,85774,Medium,Short-term,Wealth Building,545337
+405,38,98520,Medium,Short-term,Wealth Building,404002
+406,54,41011,Low,Medium-term,Education,473120
+407,28,30000,High,Medium-term,Retirement,696059
+408,42,126838,Medium,Short-term,Wealth Building,919216
+409,46,50953,Medium,Short-term,Education,844123
+410,52,52816,Medium,Medium-term,Education,178112
+411,55,116319,Low,Short-term,Home Purchase,783815
+412,28,79072,High,Medium-term,Education,234062
+413,21,75202,Medium,Short-term,Retirement,67986
+414,64,176751,Low,Medium-term,Wealth Building,441978
+415,49,43401,Medium,Long-term,Education,688960
+416,33,95217,High,Medium-term,Retirement,366918
+417,68,61605,Medium,Medium-term,Education,756137
+418,46,68479,Medium,Long-term,Education,947314
+419,62,128570,Medium,Short-term,Education,751063
+420,46,77181,Medium,Long-term,Education,115315
+421,75,78366,Medium,Medium-term,Education,329348
+422,71,102360,Low,Short-term,Retirement,292229
+423,41,49887,Medium,Long-term,Wealth Building,712214
+424,59,39355,Low,Short-term,Wealth Building,478013
+425,54,35510,Medium,Short-term,Wealth Building,749629
+426,65,30000,Medium,Long-term,Wealth Building,705139
+427,30,167393,Medium,Short-term,Retirement,721567
+428,55,34489,Low,Long-term,Home Purchase,235687
+429,60,53603,Medium,Medium-term,Home Purchase,306124
+430,18,52135,Medium,Short-term,Retirement,852549
+431,27,69821,High,Medium-term,Retirement,155213
+432,18,90027,High,Medium-term,Education,674704
+433,40,92063,Medium,Short-term,Education,25896
+434,55,44732,Low,Long-term,Education,99353
+435,67,55074,Medium,Short-term,Wealth Building,39813
+436,46,68960,High,Medium-term,Education,749791
+437,69,52873,Low,Medium-term,Home Purchase,75679
+438,24,133742,High,Long-term,Wealth Building,676041
+439,19,76533,Medium,Short-term,Education,738263
+440,44,86460,Medium,Medium-term,Wealth Building,799660
+441,50,83403,Medium,Medium-term,Home Purchase,407798
+442,44,107660,High,Medium-term,Education,219755
+443,18,65546,Medium,Long-term,Home Purchase,283541
+444,43,31306,High,Medium-term,Home Purchase,966303
+445,25,73119,High,Medium-term,Home Purchase,309155
+446,55,43231,Low,Short-term,Education,613471
+447,50,45967,Low,Short-term,Retirement,365398
+448,30,80272,High,Medium-term,Education,447480
+449,37,111206,Low,Medium-term,Home Purchase,576605
+450,29,60514,Medium,Short-term,Education,188986
+451,44,69871,Low,Long-term,Home Purchase,225705
+452,59,140239,Medium,Long-term,Retirement,898921
+453,30,67533,Medium,Long-term,Wealth Building,710614
+454,52,200000,Medium,Long-term,Retirement,312240
+455,37,79439,Low,Long-term,Retirement,325929
+456,33,30000,Medium,Long-term,Wealth Building,62344
+457,43,87262,Medium,Long-term,Education,780348
+458,29,72444,High,Long-term,Wealth Building,485859
+459,36,114105,High,Short-term,Education,916814
+460,27,83833,Medium,Long-term,Education,733906
+461,74,55869,Low,Long-term,Home Purchase,998595
+462,45,32462,Low,Long-term,Home Purchase,468819
+463,34,53932,Medium,Medium-term,Wealth Building,169484
+464,48,39133,Low,Short-term,Retirement,120489
+465,43,44789,Medium,Short-term,Wealth Building,454874
+466,41,80361,Medium,Short-term,Education,503057
+467,54,137992,Low,Long-term,Home Purchase,452765
+468,56,72935,Low,Long-term,Wealth Building,792955
+469,37,32927,Medium,Medium-term,Wealth Building,21549
+470,36,74779,Medium,Short-term,Home Purchase,474432
+471,40,108914,Low,Long-term,Home Purchase,35739
+472,18,44139,High,Short-term,Home Purchase,817641
+473,22,55993,Medium,Medium-term,Education,641339
+474,65,60315,Low,Medium-term,Home Purchase,25116
+475,69,40439,Low,Medium-term,Retirement,554333
+476,41,82796,Medium,Short-term,Wealth Building,953831
+477,53,56360,Low,Long-term,Home Purchase,45709
+478,49,73848,Medium,Long-term,Home Purchase,840049
+479,80,38416,Medium,Medium-term,Education,987643
+480,61,48111,Low,Long-term,Education,692265
+481,43,85921,Medium,Medium-term,Wealth Building,991652
+482,30,49691,Medium,Short-term,Retirement,737963
+483,20,141985,Medium,Medium-term,Wealth Building,239167
+484,48,49029,Medium,Short-term,Home Purchase,916211
+485,33,66992,Medium,Medium-term,Retirement,315063
+486,23,95444,Medium,Long-term,Retirement,879953
+487,35,30000,Low,Long-term,Retirement,496121
+488,28,30000,Medium,Medium-term,Retirement,229222
+489,70,30000,Low,Long-term,Wealth Building,723806
+490,58,112565,Medium,Long-term,Education,717788
+491,44,45436,Low,Long-term,Education,975398
+492,67,200000,Low,Short-term,Home Purchase,802879
+493,46,45155,Low,Long-term,Education,539787
+494,32,65662,High,Short-term,Education,573329
+495,67,129450,Low,Medium-term,Education,303459
+496,53,163251,Low,Long-term,Education,142371
+497,29,167837,High,Long-term,Home Purchase,392650
+498,42,109555,Medium,Long-term,Wealth Building,670354
+499,31,99910,Medium,Medium-term,Retirement,760774
+500,24,80520,Medium,Short-term,Education,222235
+501,58,88360,Low,Short-term,Wealth Building,792119
+502,73,45451,Low,Long-term,Education,934993
+503,24,39771,Medium,Medium-term,Education,363791
+504,53,59773,Low,Medium-term,Retirement,304499
+505,35,54990,Low,Medium-term,Retirement,345949
+506,37,47733,Low,Medium-term,Retirement,340511
+507,36,84812,Medium,Medium-term,Education,382050
+508,32,96534,High,Short-term,Education,389553
+509,45,62580,Medium,Short-term,Education,873787
+510,32,125337,Low,Short-term,Retirement,126220
+511,49,33831,Low,Long-term,Home Purchase,231421
+512,44,54348,High,Medium-term,Wealth Building,359317
+513,41,41839,Low,Long-term,Home Purchase,798428
+514,31,30000,Low,Medium-term,Education,785359
+515,36,57449,Medium,Short-term,Education,840819
+516,56,56338,Low,Long-term,Home Purchase,13089
+517,52,127608,Low,Short-term,Education,895259
+518,30,82076,Low,Medium-term,Wealth Building,292803
+519,46,35878,Low,Medium-term,Education,317322
+520,56,151303,Medium,Medium-term,Wealth Building,523269
+521,19,110251,Medium,Short-term,Home Purchase,630253
+522,53,80101,Low,Medium-term,Home Purchase,615556
+523,35,53463,Medium,Short-term,Education,357186
+524,53,37059,Low,Long-term,Wealth Building,378615
+525,33,49706,Medium,Medium-term,Education,211798
+526,18,103194,Medium,Medium-term,Retirement,342255
+527,20,153628,High,Medium-term,Retirement,247103
+528,45,129524,High,Long-term,Retirement,779042
+529,48,46890,High,Medium-term,Retirement,699925
+530,31,34207,Low,Short-term,Education,896867
+531,54,64243,Low,Short-term,Retirement,99242
+532,20,30000,High,Medium-term,Wealth Building,385348
+533,44,70374,Medium,Medium-term,Home Purchase,163956
+534,26,55614,High,Long-term,Home Purchase,813631
+535,35,47428,Low,Long-term,Retirement,594326
+536,45,30000,Medium,Long-term,Retirement,592074
+537,32,77404,Medium,Medium-term,Retirement,906068
+538,39,45873,Medium,Long-term,Education,770330
+539,60,33357,Low,Long-term,Home Purchase,845726
+540,36,30000,Low,Short-term,Retirement,743375
+541,57,59056,Low,Long-term,Wealth Building,175250
+542,28,145237,Medium,Short-term,Retirement,940169
+543,52,137396,Low,Short-term,Home Purchase,532820
+544,66,47641,Medium,Long-term,Retirement,272678
+545,18,44306,Medium,Short-term,Home Purchase,888260
+546,33,75688,High,Medium-term,Retirement,832564
+547,53,36344,Low,Medium-term,Wealth Building,912152
+548,41,69626,Medium,Long-term,Retirement,308254
+549,50,87819,Medium,Medium-term,Wealth Building,724114
+550,35,110576,Low,Short-term,Wealth Building,860012
+551,46,56949,Low,Medium-term,Retirement,425685
+552,42,54076,Medium,Long-term,Wealth Building,336160
+553,62,38600,Low,Long-term,Education,56233
+554,48,39599,Medium,Short-term,Retirement,926295
+555,50,53463,Medium,Long-term,Retirement,207780
+556,38,71946,Medium,Medium-term,Wealth Building,461448
+557,37,94541,Low,Long-term,Wealth Building,758810
+558,38,40071,Medium,Short-term,Retirement,116311
+559,50,126291,Medium,Long-term,Education,568697
+560,38,52283,Low,Medium-term,Wealth Building,780519
+561,49,59237,Medium,Short-term,Wealth Building,946828
+562,76,41208,Low,Medium-term,Home Purchase,411954
+563,58,30000,Low,Short-term,Education,506246
+564,40,93155,Low,Long-term,Education,820486
+565,63,86545,Medium,Short-term,Retirement,39709
+566,38,52017,Low,Short-term,Education,643609
+567,18,61913,Medium,Long-term,Retirement,10363
+568,29,77495,High,Medium-term,Home Purchase,806790
+569,18,30000,High,Long-term,Education,504829
+570,39,45957,Low,Short-term,Wealth Building,406456
+571,45,89065,Low,Long-term,Home Purchase,475417
+572,70,31979,Low,Short-term,Retirement,55689
+573,49,69340,Low,Long-term,Home Purchase,274080
+574,41,30385,Low,Long-term,Retirement,908704
+575,57,75600,Low,Medium-term,Home Purchase,625362
+576,18,58816,High,Short-term,Retirement,185037
+577,48,30000,Medium,Medium-term,Education,218606
+578,56,107191,Low,Short-term,Wealth Building,10882
+579,22,41469,High,Long-term,Retirement,423440
+580,62,39929,Low,Short-term,Home Purchase,901659
+581,50,66189,Medium,Medium-term,Retirement,789110
+582,38,106331,High,Medium-term,Retirement,135865
+583,54,36029,Medium,Medium-term,Retirement,658033
+584,79,61749,Medium,Short-term,Home Purchase,434041
+585,47,74191,High,Medium-term,Wealth Building,473956
+586,48,84673,Medium,Medium-term,Education,38885
+587,38,65396,Low,Medium-term,Wealth Building,705416
+588,32,49835,Medium,Long-term,Retirement,406419
+589,57,39584,Medium,Long-term,Home Purchase,725601
+590,32,62509,Medium,Short-term,Wealth Building,405460
+591,46,35028,Medium,Short-term,Retirement,370466
+592,37,30000,Low,Medium-term,Education,340763
+593,52,74479,Low,Long-term,Education,31584
+594,50,94086,Medium,Medium-term,Education,804953
+595,60,30000,Low,Medium-term,Retirement,715377
+596,37,36139,Medium,Long-term,Home Purchase,829973
+597,40,81599,Low,Long-term,Wealth Building,563351
+598,30,167501,Medium,Long-term,Education,80268
+599,38,60499,High,Short-term,Retirement,790594
+600,50,41605,Low,Short-term,Retirement,660506
+601,56,54641,Medium,Medium-term,Wealth Building,390350
+602,31,119066,Medium,Short-term,Education,468168
+603,58,43348,Low,Long-term,Retirement,758414
+604,65,40151,Low,Long-term,Wealth Building,180635
+605,51,47034,Medium,Short-term,Home Purchase,180824
+606,73,37172,Low,Medium-term,Home Purchase,760593
+607,33,63661,Medium,Medium-term,Home Purchase,405783
+608,26,134906,High,Short-term,Education,419337
+609,18,70371,High,Medium-term,Wealth Building,929178
+610,67,52776,Low,Medium-term,Wealth Building,610699
+611,54,51745,Medium,Medium-term,Retirement,119876
+612,44,30000,Low,Long-term,Retirement,993779
+613,49,93111,Medium,Long-term,Retirement,208153
+614,28,57588,Medium,Short-term,Wealth Building,694500
+615,80,54707,Low,Long-term,Retirement,674687
+616,46,200000,Medium,Medium-term,Wealth Building,998167
+617,46,69520,Low,Long-term,Wealth Building,33331
+618,55,41114,Low,Short-term,Home Purchase,33004
+619,52,48379,Medium,Long-term,Retirement,248441
+620,48,106321,Low,Medium-term,Home Purchase,915675
+621,33,63362,Medium,Medium-term,Education,413708
+622,52,30000,Low,Short-term,Education,458013
+623,73,94808,Low,Long-term,Education,199167
+624,65,42870,Low,Long-term,Wealth Building,941253
+625,68,152763,Low,Long-term,Wealth Building,859649
+626,37,102746,Low,Medium-term,Wealth Building,623332
+627,30,47874,Low,Short-term,Retirement,805477
+628,43,113607,Low,Long-term,Home Purchase,292260
+629,45,61940,Medium,Medium-term,Wealth Building,552955
+630,61,91710,Medium,Medium-term,Home Purchase,347201
+631,19,76295,High,Medium-term,Home Purchase,608493
+632,67,39215,Low,Long-term,Home Purchase,37302
+633,42,43400,Low,Long-term,Retirement,414499
+634,38,100205,Low,Long-term,Retirement,172007
+635,29,50645,Medium,Long-term,Education,606822
+636,20,48931,Medium,Long-term,Education,759702
+637,57,37139,Low,Long-term,Home Purchase,172696
+638,46,73998,Medium,Long-term,Education,23440
+639,25,167923,Medium,Long-term,Home Purchase,383145
+640,25,35109,Medium,Long-term,Retirement,318645
+641,39,60603,High,Medium-term,Retirement,404485
+642,70,121310,Medium,Long-term,Retirement,804300
+643,41,57536,Medium,Short-term,Wealth Building,695611
+644,22,75070,High,Medium-term,Home Purchase,350053
+645,41,35200,High,Long-term,Retirement,618811
+646,40,74172,Medium,Short-term,Home Purchase,704089
+647,18,54525,Medium,Long-term,Education,550022
+648,44,98013,Medium,Short-term,Education,707789
+649,41,108411,High,Short-term,Retirement,182409
+650,55,200000,Medium,Short-term,Home Purchase,443541
+651,72,80002,Low,Short-term,Retirement,355744
+652,61,70466,Low,Medium-term,Education,990018
+653,40,65985,Medium,Medium-term,Retirement,804865
+654,28,50182,High,Short-term,Home Purchase,517173
+655,80,70915,Low,Long-term,Education,674471
+656,45,51652,High,Short-term,Wealth Building,638274
+657,45,65135,Medium,Medium-term,Education,860185
+658,44,115704,High,Long-term,Wealth Building,648071
+659,47,36196,High,Medium-term,Retirement,221655
+660,42,105867,Medium,Medium-term,Retirement,476836
+661,36,115677,Medium,Long-term,Home Purchase,818183
+662,36,56441,Medium,Short-term,Wealth Building,681813
+663,44,30000,Low,Short-term,Retirement,751204
+664,36,44182,Medium,Short-term,Wealth Building,442184
+665,34,114519,Low,Short-term,Retirement,171149
+666,46,59193,Medium,Long-term,Education,249654
+667,41,36328,Low,Long-term,Retirement,437991
+668,67,46518,Low,Long-term,Home Purchase,199216
+669,18,91154,Medium,Medium-term,Education,845002
+670,61,78697,Low,Long-term,Home Purchase,187169
+671,63,53131,Medium,Short-term,Education,820935
+672,18,49840,High,Medium-term,Wealth Building,668139
+673,39,49223,Medium,Short-term,Home Purchase,883272
+674,39,37752,Low,Short-term,Retirement,141827
+675,23,134280,Medium,Long-term,Wealth Building,311407
+676,33,50962,Low,Long-term,Retirement,904923
+677,28,110037,Medium,Short-term,Education,327231
+678,71,128111,Medium,Short-term,Education,969785
+679,59,98632,Low,Medium-term,Retirement,585770
+680,64,48251,Low,Long-term,Retirement,982361
+681,55,73266,Low,Medium-term,Wealth Building,132989
+682,28,59154,Medium,Medium-term,Retirement,420616
+683,37,38106,Medium,Medium-term,Home Purchase,836547
+684,52,70416,Low,Short-term,Home Purchase,286393
+685,26,33205,Medium,Medium-term,Retirement,778543
+686,55,108427,Low,Medium-term,Home Purchase,974329
+687,41,47462,Medium,Short-term,Retirement,644649
+688,39,66209,Low,Long-term,Wealth Building,821032
+689,55,68984,Low,Long-term,Home Purchase,309850
+690,51,52604,Medium,Medium-term,Home Purchase,815654
+691,39,80285,Medium,Short-term,Retirement,371185
+692,62,47218,Low,Long-term,Home Purchase,900936
+693,28,92563,High,Medium-term,Education,51139
+694,54,30546,Low,Medium-term,Wealth Building,649207
+695,53,63779,Low,Short-term,Wealth Building,781965
+696,40,157860,Medium,Medium-term,Home Purchase,313446
+697,49,36309,Medium,Long-term,Home Purchase,235756
+698,26,42664,Medium,Short-term,Education,359982
+699,58,77416,Low,Long-term,Education,995663
+700,42,65499,Medium,Long-term,Home Purchase,674006
+701,37,71347,High,Long-term,Home Purchase,678903
+702,60,76465,Low,Medium-term,Education,759856
+703,34,82237,Medium,Medium-term,Retirement,688145
+704,23,104281,Medium,Long-term,Education,874785
+705,21,73490,High,Long-term,Retirement,958910
+706,54,53070,Low,Short-term,Wealth Building,361136
+707,25,83808,Medium,Short-term,Wealth Building,847860
+708,71,154808,Low,Medium-term,Education,558065
+709,18,56032,High,Medium-term,Retirement,67939
+710,70,36780,Low,Short-term,Education,456242
+711,48,104145,Medium,Long-term,Education,882882
+712,43,56376,High,Medium-term,Retirement,957057
+713,36,30000,Low,Long-term,Education,33548
+714,50,91464,Low,Short-term,Wealth Building,466437
+715,44,45813,Medium,Medium-term,Home Purchase,964769
+716,61,57224,Low,Medium-term,Home Purchase,659837
+717,46,70685,Medium,Short-term,Education,443917
+718,47,65857,Low,Medium-term,Retirement,454503
+719,39,85367,Medium,Short-term,Retirement,147799
+720,44,48158,Medium,Medium-term,Wealth Building,775820
+721,49,77385,Medium,Short-term,Retirement,191789
+722,19,52587,High,Medium-term,Retirement,435643
+723,24,86630,Medium,Long-term,Wealth Building,682052
+724,56,81445,Low,Long-term,Education,565913
+725,47,37506,Medium,Long-term,Home Purchase,821350
+726,42,103052,Medium,Medium-term,Wealth Building,444352
+727,45,45799,High,Medium-term,Education,911258
+728,50,89682,Medium,Long-term,Wealth Building,649169
+729,36,71944,High,Long-term,Education,455625
+730,33,150105,Medium,Short-term,Wealth Building,812009
+731,47,53544,Medium,Short-term,Education,357299
+732,30,50278,Medium,Short-term,Wealth Building,121776
+733,51,59295,Low,Long-term,Education,895678
+734,19,51452,Medium,Long-term,Wealth Building,768284
+735,60,89319,Medium,Long-term,Home Purchase,792119
+736,52,30000,Medium,Short-term,Home Purchase,523624
+737,48,35353,Medium,Medium-term,Retirement,222803
+738,59,35104,Low,Long-term,Education,168761
+739,69,96293,Low,Medium-term,Wealth Building,676514
+740,60,140829,Medium,Medium-term,Education,507873
+741,18,56827,High,Medium-term,Home Purchase,367092
+742,25,55027,Medium,Short-term,Education,31341
+743,35,62008,Low,Medium-term,Wealth Building,369698
+744,45,107037,High,Long-term,Education,215753
+745,52,37658,Low,Short-term,Wealth Building,904230
+746,34,67452,Medium,Long-term,Home Purchase,318474
+747,47,97499,High,Long-term,Home Purchase,783429
+748,33,76921,Low,Short-term,Home Purchase,359903
+749,35,65827,Medium,Long-term,Retirement,733776
+750,23,98767,Medium,Long-term,Home Purchase,790427
+751,31,30000,Medium,Short-term,Education,358951
+752,24,84030,High,Long-term,Retirement,829745
+753,30,43172,Medium,Medium-term,Home Purchase,319044
+754,60,30000,Medium,Long-term,Education,88840
+755,30,77311,Medium,Medium-term,Education,175767
+756,80,118994,Low,Long-term,Education,171297
+757,52,55897,Low,Short-term,Wealth Building,882504
+758,47,96416,Medium,Short-term,Retirement,892799
+759,32,134072,Medium,Long-term,Education,59156
+760,55,115549,Low,Short-term,Wealth Building,218281
+761,36,135941,Medium,Long-term,Home Purchase,97453
+762,46,86774,Medium,Short-term,Education,693189
+763,80,62175,Medium,Medium-term,Wealth Building,35938
+764,43,30000,Medium,Long-term,Education,69164
+765,62,52942,Medium,Medium-term,Retirement,457746
+766,34,39276,Low,Medium-term,Retirement,733559
+767,44,177277,Low,Long-term,Home Purchase,594570
+768,71,54833,Low,Medium-term,Education,319945
+769,35,63678,Medium,Long-term,Wealth Building,412681
+770,72,78884,Low,Medium-term,Home Purchase,275470
+771,55,61193,Medium,Long-term,Education,931163
+772,36,139738,Medium,Long-term,Home Purchase,987793
+773,54,43856,Low,Short-term,Wealth Building,692954
+774,59,65992,Low,Long-term,Home Purchase,125819
+775,54,41306,Medium,Long-term,Home Purchase,276907
+776,21,30945,High,Medium-term,Home Purchase,491873
+777,34,44095,Medium,Long-term,Education,151900
+778,41,58775,Medium,Short-term,Wealth Building,319732
+779,43,48307,High,Medium-term,Retirement,807653
+780,54,42352,Low,Medium-term,Education,414427
+781,47,30000,Low,Short-term,Retirement,547857
+782,24,57437,High,Medium-term,Retirement,237966
+783,50,30000,Low,Medium-term,Education,47860
+784,54,87555,Medium,Medium-term,Education,212630
+785,53,62393,Low,Medium-term,Wealth Building,841769
+786,61,30000,Low,Short-term,Wealth Building,533225
+787,57,51297,Medium,Short-term,Home Purchase,979815
+788,51,41106,Medium,Medium-term,Retirement,678875
+789,43,70233,High,Medium-term,Wealth Building,605983
+790,20,117034,High,Short-term,Home Purchase,263078
+791,51,30000,Low,Short-term,Wealth Building,776887
+792,48,63418,Medium,Short-term,Education,378893
+793,49,55267,High,Medium-term,Wealth Building,165976
+794,25,83756,High,Medium-term,Retirement,725295
+795,28,66609,High,Long-term,Wealth Building,840222
+796,60,41110,Low,Short-term,Retirement,865012
+797,44,51045,Medium,Medium-term,Education,15636
+798,55,40214,Medium,Short-term,Retirement,271578
+799,45,102539,Low,Medium-term,Wealth Building,349273
+800,45,60515,Low,Short-term,Home Purchase,930396
+801,59,154909,Low,Medium-term,Education,293816
+802,37,58085,Low,Long-term,Wealth Building,802244
+803,46,42015,Low,Long-term,Education,237693
+804,38,30000,Medium,Short-term,Education,531393
+805,38,30000,High,Medium-term,Wealth Building,10654
+806,40,30000,Medium,Medium-term,Wealth Building,588921
+807,48,68429,Low,Short-term,Home Purchase,27143
+808,37,77216,Low,Medium-term,Education,590222
+809,63,30000,Low,Short-term,Education,339478
+810,31,93668,Medium,Medium-term,Wealth Building,637751
+811,42,47026,High,Short-term,Retirement,135851
+812,38,64433,Medium,Medium-term,Wealth Building,563375
+813,66,134069,Medium,Short-term,Education,676978
+814,47,93753,Low,Medium-term,Wealth Building,804878
+815,60,52351,Low,Long-term,Home Purchase,898559
+816,22,38345,Medium,Medium-term,Retirement,321011
+817,49,30000,High,Short-term,Wealth Building,454244
+818,58,41790,Low,Long-term,Home Purchase,856533
+819,46,53875,Medium,Medium-term,Education,168272
+820,60,36549,Low,Long-term,Wealth Building,236179
+821,37,56070,Low,Medium-term,Education,884506
+822,66,62219,Low,Long-term,Home Purchase,726825
+823,79,53507,Low,Short-term,Education,512716
+824,39,43260,Medium,Medium-term,Home Purchase,227508
+825,38,65142,Low,Medium-term,Home Purchase,652710
+826,66,74680,Low,Short-term,Home Purchase,360036
+827,68,34710,Medium,Long-term,Wealth Building,229631
+828,37,121232,Medium,Short-term,Education,392188
+829,38,56994,Medium,Short-term,Education,49148
+830,40,60441,Low,Long-term,Retirement,879360
+831,24,85315,Medium,Short-term,Retirement,161770
+832,31,67279,Medium,Medium-term,Retirement,445686
+833,29,96429,Medium,Medium-term,Retirement,495287
+834,33,69117,Medium,Medium-term,Education,848092
+835,44,44080,Low,Short-term,Home Purchase,981414
+836,48,71736,Low,Medium-term,Home Purchase,831882
+837,68,33797,Low,Medium-term,Wealth Building,721823
+838,30,63213,High,Medium-term,Home Purchase,305901
+839,59,58887,Low,Medium-term,Education,88012
+840,41,53956,Medium,Medium-term,Education,903182
+841,44,56147,Low,Medium-term,Education,923475
+842,55,30000,Low,Short-term,Wealth Building,997751
+843,28,45507,Medium,Medium-term,Retirement,999519
+844,50,62719,Medium,Medium-term,Home Purchase,958894
+845,47,64856,High,Long-term,Education,66116
+846,52,35816,Low,Short-term,Education,154233
+847,49,112741,High,Short-term,Retirement,42152
+848,80,38828,Medium,Short-term,Education,116379
+849,35,97219,High,Short-term,Home Purchase,236905
+850,37,74131,High,Medium-term,Wealth Building,30836
+851,35,43342,Low,Medium-term,Education,231439
+852,36,145459,Medium,Long-term,Home Purchase,994047
+853,35,32964,Low,Long-term,Education,196720
+854,62,94804,Low,Short-term,Retirement,167403
+855,66,98744,Medium,Long-term,Education,151835
+856,36,42816,Medium,Long-term,Education,865876
+857,32,120118,Medium,Short-term,Wealth Building,627397
+858,52,52837,Medium,Short-term,Retirement,160259
+859,36,69171,High,Long-term,Retirement,153029
+860,54,68197,Medium,Medium-term,Wealth Building,407595
+861,48,55985,Low,Long-term,Education,955463
+862,22,89805,Medium,Long-term,Home Purchase,616306
+863,68,89031,Low,Medium-term,Retirement,657364
+864,71,30000,Low,Medium-term,Retirement,692465
+865,35,114940,Low,Short-term,Education,404093
+866,39,30000,Medium,Short-term,Education,713713
+867,49,100335,Medium,Long-term,Retirement,880220
+868,50,105172,Low,Medium-term,Education,893302
+869,54,34700,Low,Short-term,Home Purchase,749945
+870,75,48756,Low,Long-term,Retirement,355452
+871,42,34445,Low,Medium-term,Home Purchase,454783
+872,33,53773,Low,Long-term,Home Purchase,330057
+873,24,51327,High,Short-term,Education,536925
+874,34,88417,Medium,Short-term,Home Purchase,475994
+875,44,115284,Medium,Medium-term,Education,838457
+876,71,120311,Low,Long-term,Wealth Building,772277
+877,37,45202,High,Medium-term,Education,766547
+878,48,53927,Medium,Short-term,Home Purchase,371652
+879,44,30000,Medium,Short-term,Wealth Building,616752
+880,62,40017,Low,Long-term,Education,300886
+881,80,96996,Medium,Long-term,Home Purchase,546119
+882,37,134294,Medium,Long-term,Retirement,123768
+883,37,32300,Medium,Medium-term,Retirement,781271
+884,60,44523,Medium,Long-term,Education,357236
+885,55,59088,Medium,Long-term,Education,887311
+886,72,68877,Low,Short-term,Retirement,884802
+887,53,39942,Medium,Short-term,Home Purchase,922969
+888,39,74015,Medium,Long-term,Home Purchase,974266
+889,53,47243,Low,Long-term,Home Purchase,639112
+890,61,59443,Low,Short-term,Education,98741
+891,57,78679,Medium,Long-term,Wealth Building,28830
+892,52,60066,Medium,Medium-term,Wealth Building,327188
+893,61,48137,Low,Medium-term,Wealth Building,870380
+894,62,56681,Low,Medium-term,Wealth Building,79202
+895,65,57286,Low,Long-term,Wealth Building,309189
+896,54,49761,Medium,Short-term,Education,227394
+897,42,52606,High,Long-term,Education,520473
+898,47,133162,Medium,Long-term,Wealth Building,212123
+899,63,79257,Medium,Short-term,Education,903941
+900,32,51650,Medium,Short-term,Education,167699
+901,50,84836,Low,Short-term,Wealth Building,287342
+902,39,50670,Low,Medium-term,Home Purchase,865953
+903,45,107641,Medium,Long-term,Education,514655
+904,64,72028,Low,Short-term,Home Purchase,640759
+905,47,56746,Medium,Long-term,Education,825907
+906,45,74896,Medium,Medium-term,Education,246824
+907,24,30000,High,Medium-term,Wealth Building,522214
+908,56,34085,Low,Short-term,Education,29403
+909,54,32959,Low,Short-term,Retirement,13681
+910,77,64310,Low,Long-term,Retirement,363699
+911,40,142380,Medium,Short-term,Wealth Building,915316
+912,48,182709,Medium,Long-term,Home Purchase,889554
+913,48,82374,Low,Short-term,Home Purchase,649548
+914,68,76912,Low,Long-term,Home Purchase,707652
+915,43,30000,Medium,Long-term,Retirement,639674
+916,49,45645,Medium,Long-term,Home Purchase,767666
+917,54,40380,Low,Long-term,Home Purchase,408845
+918,47,43895,Medium,Medium-term,Wealth Building,103246
+919,38,55046,Medium,Long-term,Home Purchase,105864
+920,47,47285,Medium,Short-term,Retirement,218886
+921,61,30000,Medium,Medium-term,Retirement,280561
+922,29,87025,Medium,Medium-term,Retirement,391032
+923,46,35018,Low,Long-term,Wealth Building,175837
+924,34,67482,Medium,Medium-term,Wealth Building,870931
+925,62,168896,Low,Long-term,Education,927340
+926,22,37809,High,Short-term,Home Purchase,255160
+927,36,30000,High,Long-term,Wealth Building,197646
+928,50,51896,Medium,Medium-term,Retirement,493761
+929,68,103826,Medium,Short-term,Retirement,793566
+930,44,159400,Medium,Long-term,Wealth Building,824107
+931,36,32377,Medium,Short-term,Wealth Building,266681
+932,73,76753,Low,Short-term,Wealth Building,475483
+933,23,47445,Medium,Medium-term,Education,705923
+934,18,56784,High,Short-term,Retirement,545620
+935,51,200000,Low,Medium-term,Education,789105
+936,37,30000,High,Short-term,Education,815609
+937,29,67973,High,Long-term,Home Purchase,926992
+938,55,75648,Low,Short-term,Retirement,230326
+939,48,103042,Medium,Long-term,Retirement,733807
+940,36,62880,Low,Long-term,Wealth Building,271849
+941,25,69844,Medium,Short-term,Wealth Building,329248
+942,58,49225,Low,Long-term,Home Purchase,356479
+943,54,68498,Low,Short-term,Education,387082
+944,43,50433,Medium,Short-term,Wealth Building,90730
+945,72,81698,Medium,Long-term,Wealth Building,408167
+946,28,49771,High,Long-term,Retirement,247474
+947,22,72297,High,Medium-term,Retirement,300477
+948,34,59004,Low,Long-term,Wealth Building,293817
+949,44,105137,High,Medium-term,Retirement,910853
+950,48,58355,High,Long-term,Home Purchase,575158
+951,41,30000,Low,Short-term,Wealth Building,263017
+952,50,112528,Medium,Long-term,Retirement,661824
+953,26,38068,Medium,Short-term,Home Purchase,343245
+954,66,43179,Medium,Short-term,Retirement,819253
+955,43,44452,High,Short-term,Retirement,35494
+956,61,119040,Low,Medium-term,Retirement,633765
+957,50,30000,Medium,Long-term,Wealth Building,398227
+958,51,200000,Low,Short-term,Education,739520
+959,53,101521,Medium,Short-term,Retirement,384842
+960,51,66944,Low,Medium-term,Home Purchase,383704
+961,54,58253,Medium,Long-term,Wealth Building,404051
+962,64,69063,Low,Long-term,Wealth Building,290790
+963,47,77696,Medium,Medium-term,Home Purchase,133777
+964,55,82669,Low,Medium-term,Retirement,611648
+965,43,79047,High,Long-term,Education,309479
+966,66,62616,Medium,Medium-term,Retirement,865783
+967,34,54248,High,Long-term,Home Purchase,911366
+968,72,55512,Medium,Long-term,Wealth Building,143501
+969,44,54314,Low,Short-term,Education,314094
+970,23,105544,Medium,Short-term,Wealth Building,594942
+971,46,80561,Low,Long-term,Home Purchase,379566
+972,34,30000,Low,Long-term,Retirement,382078
+973,57,83112,Low,Long-term,Education,129975
+974,35,65997,Medium,Long-term,Wealth Building,733503
+975,38,59316,Low,Long-term,Wealth Building,363330
+976,18,49303,Medium,Long-term,Wealth Building,376378
+977,38,105035,Low,Medium-term,Retirement,636614
+978,18,96159,Medium,Long-term,Education,87527
+979,21,40682,High,Medium-term,Retirement,358848
+980,56,73388,Medium,Medium-term,Retirement,958603
+981,56,36833,Medium,Long-term,Retirement,442601
+982,51,30037,Low,Long-term,Home Purchase,176991
+983,30,43767,Low,Medium-term,Home Purchase,106952
+984,44,92152,Medium,Medium-term,Home Purchase,857214
+985,44,96429,Medium,Long-term,Education,343260
+986,27,77384,Medium,Long-term,Retirement,475806
+987,67,86038,Low,Medium-term,Retirement,886058
+988,58,77504,Low,Medium-term,Home Purchase,443603
+989,41,43445,Low,Medium-term,Retirement,681183
+990,45,74307,Medium,Short-term,Retirement,56015
+991,48,89340,Medium,Medium-term,Wealth Building,112877
+992,18,87303,Medium,Short-term,Retirement,287483
+993,41,108494,Low,Long-term,Wealth Building,533165
+994,34,85318,High,Long-term,Retirement,668851
+995,29,71376,Medium,Medium-term,Education,403922
+996,40,102239,Medium,Long-term,Home Purchase,631781
+997,71,59085,Medium,Long-term,Wealth Building,681088
+998,54,38525,Low,Long-term,Home Purchase,934501
+999,36,55186,Low,Long-term,Wealth Building,506753
+1000,53,41255,Low,Short-term,Wealth Building,725768
